@@ -6,7 +6,7 @@ This project focuses on cleaning and preparing hotel booking data using Python. 
 Dataset Description
 Dataset: Hotel Booking Demand
 File: hotel_bookings.csv
-Format: CSV
+Format : CSV
 
 The dataset contains booking-level information such as the number of adults, children, and babies, along with other hotel-related attributes.
 
