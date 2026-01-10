@@ -14,7 +14,7 @@ Data Cleaning Steps
 
 The following preprocessing steps were performed:
 Renamed columns for better readability and consistency
-adults → num_adults
+adults →  num_adults
 children → num_children
 babies → num_babies
 Identified and handled missing values
